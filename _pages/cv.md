@@ -34,7 +34,7 @@ Conferences and Workshops
 Awards and Grants
 ======
 * NSF GRFP Fellowship, 2022
-* SIAM Student Travel Grant, 2022
+* SIAM Student Travel Grant, 2022, 2023
 * ACM Student Travel Grant, 2022
 * University of Michigan James T. Neubacher Award Honorable Mention, 2021
 * NSF GRFP Honorable Mention, 2021
@@ -48,6 +48,7 @@ Teaching
 
 Service, Leadership, and Mentorship
 ======
+* Directed Reading Program Mentor, 2023
 * Graduate Out in STEM Board Member at the University of Michigan, Ann Arbor, 2022
 * Peer Mentor in the Math Department at the University of Michigan, Ann Arbor, 2022
 * Lab of Geometry Mentor, 2022. Projects mentored:
