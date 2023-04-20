@@ -15,7 +15,8 @@ author_profile: true
 * This [interactive fluid simulation](https://www.outpan.com/app/44bdd9869c/interactive-fluid-simulation)
 * The [matrix derivative calculator](http://www.matrixcalculus.org/)
 * [Mathics](https://mathics.org/), a free open source alternative to Mathematica
+* This [Visual PDE Solver](https://visualpde.com/), a fun way to play around with pdes
 
 ## Other things
 * [Nullschool Earth](https://earth.nullschool.net/ "Nullschool Earth"), an amazing visualization of our planet as it currently is
-* [拼音猜成语](https://pinyincaichengyu.com/), a Chinese variant on the hit game _Wordle_
+* [Cranky Flier](https://crankyflier.com/), an airline industry blog
