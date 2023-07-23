@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Applied and Interdisciplinary Mathematics and Scientific Computing, University of Michigan, Ann Arbor (In Progress)
 * B.A. in Applied Mathematics, University of California, Berkeley, 2021
-* In Progress Ph.D in Applied and Interdisciplinary Mathematics and Scientific Computing, University of Michigan, Ann Arbor, 2027 (expected)
 
 Publications
 ======
@@ -26,8 +26,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Conferences and Workshops
+Workshops
 ======
+* Advanced Summer School on Mathematical Fluid Dynamics, 2023
 * Graduate Student Mathematical Modeling Camp, 2022
 * Mathematical Problems in Industry Workshop, 2022
 
@@ -49,8 +50,8 @@ Teaching
 Service, Leadership, and Mentorship
 ======
 * Directed Reading Program Mentor, 2023
-* Graduate Out in STEM Board Member at the University of Michigan, Ann Arbor, 2022
-* Peer Mentor in the Math Department at the University of Michigan, Ann Arbor, 2022
+* Graduate Out in STEM Board Member at the University of Michigan, Ann Arbor, 2023
+* Peer Mentor in the Math Department at the University of Michigan, Ann Arbor, 2022, 2023
 * Lab of Geometry Mentor, 2022. Projects mentored:
   * Steady States of Rayleigh-Bénard Convection with Baole Wen
   * Exploring numerical schemes for conservation laws with Maria Han Veiga
